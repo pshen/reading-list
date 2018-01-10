@@ -13,6 +13,9 @@
 ## 育儿
 - 2017.10-12 [西尔斯怀孕百科][6]
 
+## 财经
+- 2018.01 [指数基金投资指南][8]
+
 [1]:	https://book.douban.com/subject/25863621/
 [2]:	https://book.douban.com/subject/26838557/
 [3]:	https://book.douban.com/subject/26665230/
@@ -20,3 +23,4 @@
 [5]:	https://book.douban.com/subject/26875239/
 [6]:	https://www.amazon.cn/dp/B0133435GA/ref=sr_1_2?ie=UTF8&qid=1514761934&sr=8-2&keywords=%E8%A5%BF%E5%B0%94%E6%96%AF
 [7]: https://www.amazon.de/Ansible-Up-Running-Lorin-Hochstein/dp/1491915323
+[8]: https://www.amazon.cn/gp/product/B077N5BFJ4/ref=oh_aui_d_detailpage_o00_?ie=UTF8&psc=1
