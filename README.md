@@ -5,9 +5,12 @@
 - 2016.12 [智能时代](https://book.douban.com/subject/26838557/) by 吴军
 - 2017.01 [硅谷之谜](https://book.douban.com/subject/26665230/) by 吴军
 - 2017.12 - 2018.01 [腾讯传](https://book.douban.com/subject/26929955/)
+- 2018.11 [态度](https://book.douban.com/subject/30346218/)
+
+ ## 自然科学
 - 2019.01 [给孩子讲量子力学](https://book.douban.com/subject/26953160/)
 
-## 技术
+## 计算机技术
 - 2016.12 [SRE Google运维解密](https://book.douban.com/subject/26875239/)
 - 2017.01-03 [Ansible Up & Running](https://www.amazon.de/Ansible-Up-Running-Lorin-Hochstein/dp/1491915323)
 
