@@ -14,6 +14,7 @@
 ## 计算机技术
 - 2016.12 [SRE Google运维解密](https://book.douban.com/subject/26875239/)
 - 2017.01-03 [Ansible Up & Running](https://www.amazon.de/Ansible-Up-Running-Lorin-Hochstein/dp/1491915323)
+- 2019.07 [Python Tricks](https://www.amazon.de/Python-Tricks-Buffet-Awesome-Features/dp/1775093301)
 
 ## 育儿
 - 2017.10-12 [西尔斯怀孕百科](https://book.douban.com/subject/3655433/)
