@@ -19,3 +19,6 @@
 - 2019.03-05 [我是个妈妈，我需要铂金包](https://book.douban.com/subject/26320194/)
 - 2019.05-?? [反脆弱](https://book.douban.com/subject/25782902/)
 - 2019.07 [Python Tricks](https://www.amazon.de/Python-Tricks-Buffet-Awesome-Features/dp/1775093301)
+
+# 2020
+- 2020.04-05 游戏 [逆转裁判](https://www.oldmanemu.net/)
